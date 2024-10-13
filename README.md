@@ -6,7 +6,7 @@ profile
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>控制科学与工程博士 - [您的名字]</title>
+    <title> Yinsong Qu </title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
