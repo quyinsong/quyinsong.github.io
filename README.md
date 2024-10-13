@@ -83,16 +83,16 @@ profile
             <h2>项目经历</h2>
             <ul>
                 <!-- 在这里添加您的项目列表 -->
-                <li> multi-diffcar-control(https://github.com/quyinsong/multi_diffcar_ws) - 2023</li>
-                <li> USV pathfollowing(https://github.com/quyinsong/USV-path-following) - 2023</li>
+                <li> multi diffcar control <a href="https://github.com/quyinsong/multi_diffcar_ws">multi-diffcar-ws</a>() - 2023</li>
+                <li> USV path following <a href="https://github.com/quyinsong/USV-path-following">USV-path-following 2023</li>
                 <!-- 更多项目... -->
             </ul>
         </section>
         <section id="contact">
             <h2>联系方式</h2>
             <p>Email: 2682641388@qq.com</p>
-            <p>GitHub: <a href="https://github.com/quyinsong">quyinsong</a></p>
-            <p>GitHub: <a href="https://quyinsong.github.io">quyinsong</a></p>
+            <p>GitHub: <a href="https://github.com/quyinsong">quyinsong.github</a></p>
+            <p>GitHub: <a href="https://quyinsong.github.io">quyinsong.github.io</a></p>
         </section>
         <footer>
             <p>&copy; 2024 Yinsong Qu. All rights reserved.</p>
