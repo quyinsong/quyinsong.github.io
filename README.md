@@ -74,9 +74,9 @@ profile
             <h2>发表论文</h2>
             <ul>
                 <!-- 在这里添加您的论文列表 -->
-                <li>Adaptive neural containment maneuvering of underactuated surface vehicles with prescribed performance and collision avoidance 1 - 会议/期刊名称, 年份</li>
-                <li>Coordinated Path Following for Multiple Underactuated Surface Vehicles with Error Constraints 2 - 会议/期刊名称, 年份</li>
-                <li>Active Fault-Tolerant Control for Path Following of Unmanned Surface Vehicle 3 - 会议/期刊名称, 年份</li>
+                <li>Adaptive neural containment maneuvering of underactuated surface vehicles with prescribed performance and collision avoidance，Ocean Engineering，2024</li>
+                <li>Coordinated Path Following for Multiple Underactuated Surface Vehicles with Error Constraints，IEEE International Conference on Mechatronics and Automation (ICMA)，2023</li>
+                <li>Active Fault-Tolerant Control for Path Following of Unmanned Surface Vehicle，China Automation Congress (CAC)，2022</li>
                 <!-- 更多论文... -->
             </ul>
         </section>
