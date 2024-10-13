@@ -83,7 +83,7 @@ profile
             <h2>项目经历</h2>
             <ul>
                 <!-- 在这里添加您的项目列表 -->
-                <li> multi-diffcar-control(https://github.com/quyinsong/multi_diffcar_ws) 1 - 2023</li>
+                <li> multi-diffcar-control(https://github.com/quyinsong/multi_diffcar_ws) - 2023</li>
                 <li> USV pathfollowing(https://github.com/quyinsong/USV-path-following) - 2023</li>
                 <!-- 更多项目... -->
             </ul>
