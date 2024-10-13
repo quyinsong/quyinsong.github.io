@@ -92,7 +92,7 @@ profile
             <h2>联系方式</h2>
             <p>Email: 2682641388@qq.com</p>
             <p>GitHub: <a href="https://github.com/quyinsong">quyinsong</a></p>
-            <p>GitHub: <a href="https://github.com/quyinsong">quyinsong</a></p>
+            <p>GitHub: <a href="https://quyinsong.github.io">quyinsong</a></p>
         </section>
         <footer>
             <p>&copy; [年份] [您的名字]. All rights reserved.</p>
