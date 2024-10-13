@@ -56,7 +56,7 @@ profile
 <body>
     <div class="container">
         <header>
-            <h1>[您的名字] - 控制科学与工程博士在读</h1>
+            <h1>[Yinsong Qy] - 控制科学与工程博士在读</h1>
         </header>
         <nav>
             <ul>
@@ -90,9 +90,9 @@ profile
         </section>
         <section id="contact">
             <h2>联系方式</h2>
-            <p>Email: [您的邮箱]</p>
+            <p>Email: 2682641388@qq.com</p>
             <p>GitHub: <a href="https://github.com/quyinsong">quyinsong</a></p>
-            <!-- 在这里添加其他联系方式，如LinkedIn、Twitter等 -->
+            <p>GitHub: <a href="https://github.com/quyinsong">quyinsong</a></p>
         </section>
         <footer>
             <p>&copy; [年份] [您的名字]. All rights reserved.</p>
