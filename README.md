@@ -68,14 +68,15 @@ profile
         </nav>
         <section id="research">
             <h2>研究领域</h2>
-            <p>机器人语言目标导航、开放词汇三维场景图构建、路径规划与路径跟踪，以及人工智能在机器人认知导航方面的应用。</p>
+            <p>机器人语言目标导航、开放词汇三维场景图构建、路径规划与路径跟踪、多机器人协同控制，以及人工智能在机器人认知导航方面的应用</p>
         </section>
         <section id="publications">
             <h2>发表论文</h2>
             <ul>
                 <!-- 在这里添加您的论文列表 -->
-                <li>论文标题 1 - 会议/期刊名称, 年份</li>
-                <li>论文标题 2 - 会议/期刊名称, 年份</li>
+                <li>Adaptive neural containment maneuvering of underactuated surface vehicles with prescribed performance and collision avoidance 1 - 会议/期刊名称, 年份</li>
+                <li>Coordinated Path Following for Multiple Underactuated Surface Vehicles with Error Constraints 2 - 会议/期刊名称, 年份</li>
+                <li>Active Fault-Tolerant Control for Path Following of Unmanned Surface Vehicle 3 - 会议/期刊名称, 年份</li>
                 <!-- 更多论文... -->
             </ul>
         </section>
@@ -91,7 +92,7 @@ profile
         <section id="contact">
             <h2>联系方式</h2>
             <p>Email: 2682641388@qq.com</p>
-            <p>GitHub: <a href="https://github.com/quyinsong">quyinsong.github</a></p>
+            <p>GitHub: <a href="https://github.com/quyinsong">github.com/quyinsong</a></p>
             <p>GitHub: <a href="https://quyinsong.github.io">quyinsong.github.io</a></p>
         </section>
         <footer>
