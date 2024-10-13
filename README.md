@@ -56,7 +56,7 @@ profile
 <body>
     <div class="container">
         <header>
-            <h1>[Yinsong Qy]</h1>
+            <h1> Yinsong Qu </h1>
         </header>
         <nav>
             <ul>
@@ -95,7 +95,7 @@ profile
             <p>GitHub: <a href="https://quyinsong.github.io">quyinsong</a></p>
         </section>
         <footer>
-            <p>&copy; [年份] [Yinsong Qu]. All rights reserved.</p>
+            <p>&copy; 2024 Yinsong Qu. All rights reserved.</p>
         </footer>
     </div>
 </body>
