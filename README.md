@@ -60,22 +60,22 @@ profile
         </header>
         <nav>
             <ul>
-                <li><a href="#research">研究领域</a></li>
-                <li><a href="#publications">发表论文</a></li>
-                <li><a href="#projects">项目经历</a></li>
-                <li><a href="#contact">联系方式</a></li>
+                <li><a href="#research">Research</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#projects">projects</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
         <section id="research">
-            <h2>研究领域</h2>
-            <p>机器人语言目标导航</p>
-            <p>开放词汇三维场景图构建</p>
-            <p>人工智能与机器人认知导航</p>
-            <p>路径规划与路径跟踪</p>
-            <p>多机器人协同控制</p>
+            <h2>Research</h2>
+            <p>Robot language goal navigation</p>
+            <p>Open-vocabulary 3D scene graph construction</p>
+            <p>Artificial Intelligence and Robotic Cognitive Navigation</p>
+            <p>Path planning and path following</p>
+            <p>Multi-robots cooperative control</p>
         </section>
         <section id="publications">
-            <h2>发表论文</h2>
+            <h2>Publications</h2>
             <ul>
                 <!-- 在这里添加您的论文列表 -->
                 <li>Yuchao Wang; Yinsong Qu; Shiquan Zhao; Huixuan Fu. Adaptive neural containment maneuvering of underactuated surface vehicles with prescribed performance and collision avoidance, Ocean Engineering, 2024</li>
@@ -85,7 +85,7 @@ profile
             </ul>
         </section>
         <section id="projects">
-            <h2>项目经历</h2>
+            <h2>Projects</h2>
             <ul>
                 <!-- 在这里添加您的项目列表 -->
                 <li> multi diffcar control: <a href="https://github.com/quyinsong/multi_diffcar_ws">multi-diffcar-ws</a>, 2023</li>
@@ -94,7 +94,7 @@ profile
             </ul>
         </section>
         <section id="contact">
-            <h2>联系方式</h2>
+            <h2>Contact</h2>
             <p>Email: 2682641388@qq.com</p>
             <p>GitHub: <a href="https://github.com/quyinsong">github.com/quyinsong</a></p>
             <p>GitHub: <a href="https://quyinsong.github.io">quyinsong.github.io</a></p>
