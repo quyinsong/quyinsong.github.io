@@ -49,7 +49,7 @@
               <img class="lazy-load" src="./assets/photo.jpg" alt="">
               <div class="icon-phone" style="display: flex;">
                 <a href="https://scholar.google.com"><img style="width: 18px; height: 18px" src="./assets/ic_1.svg" alt=""></a>
-                <a href="mailto:3120246387@bit.edu.cn"><img style="width: 19px; height: 15px" src="./assets/ic_4.svg" alt=""></a>
+                <a href="mailto:3120246387@bit.edu.cn"><img style="width: 19px; height: 15px" src="./assets/ic_2.svg" alt=""></a>
                 <a href="https://twitter.com/"><img style="width: 19px; height: 16px" src="./assets/ic_3.svg" alt=""></a>
               </div>
             </div>
@@ -61,7 +61,7 @@
               <p>
               <div class="icon" style="display: none;">
                 <a href="https://scholar.google.com"><img style="width: 18px; height: 18px" src="./assets/ic_1.svg" alt=""></a>
-                <a href="mailto:3120246387@bit.edu.cn"><img style="width: 19px; height: 15px" src="./assets/ic_4.svg" alt=""></a>
+                <a href="mailto:3120246387@bit.edu.cn"><img style="width: 19px; height: 15px" src="./assets/ic_2.svg" alt=""></a>
                 <a href="https://twitter.com"><img style="width: 19px; height: 16px" src="./assets/ic_3.svg" alt=""></a>
               </div>
             </div>
@@ -89,7 +89,7 @@
         <div id="publications" class="main-selected">
           <div class="title">SELECTED PUBLICATIONS</div>
           <div class="selected-item">
-            <img class="lazy-load" src="./assets/001.png" alt="">
+            <img class="lazy-load" src="./assets/001.jpg" alt="">
             <div class="item-right">
               <div class="item-title">
                 Adaptive neural containment maneuvering of underactuated surface vehicles 
@@ -106,7 +106,7 @@
             </div>
           </div>
           <div class="selected-item">
-            <img class="lazy-load" src="./assets/002.png" alt="">
+            <img class="lazy-load" src="./assets/002.gif" alt="">
             <div class="item-right">
               <div class="item-title">
                 Active Fault-Tolerant Control for Path Following of Unmanned Surface Vehicle
