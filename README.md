@@ -120,25 +120,6 @@
               </div>
             </div>
           </div>
-          <div class="selected-item">
-            <img class="lazy-load" src="./assets/1.png" alt="">
-            <div class="item-right">
-              <div class="item-title">
-                NaVid: Video-based VLM Plans the Next Step for
-                Vision-and-Language Navigation
-              </div>
-              <p>
-                Jiazhao Zhang, Kunyu Wang ,Rongtao Xu* ,Gengze Zhou ,Yicong Hong
-                ,Xiaomeng Fang ,Qi Wu ,Zhizheng Zhang<span>†</span> ,
-                <b>He Wang<span>†</span></b>
-              </p>
-              <p class="decs">RSS 2024</p>
-              <div class="button">
-                <a href="https://arxiv.org/abs/2402.15852" class="arXiv">arXiv</a>
-                <a href="https://pku-epic.github.io/NaVid/" class="project">Project</a>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
       <div class="main-content">
