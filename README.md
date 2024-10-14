@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1">
     <title>He Wang</title>
     <link rel="stylesheet" type="text/css" href="./css/home.css">
-  </head>
+  </head>  
   <body>
     <div class="main" style="display: block;">
       <div class="main-head">
