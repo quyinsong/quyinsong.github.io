@@ -79,8 +79,9 @@
         <div id="news" class="main-news">
           <div class="title">NEWS</div>
           <ul>
-            <li></li>
-            <li></li>
+            <li>**************</li>
+            <li>**************</li>
+            <li>...</li>
           </ul>
         </div>
       </div>
@@ -112,7 +113,7 @@
               <p>
                 Yinsong Qu, Tian Xia
               </p>
-              <p class="decs">CAC 2022 (<b>Oral Presentation</b>)</p>
+              <p class="decs">CAC 2022 </p>
               <div class="button">
                 <a href="https://ieeexplore.ieee.org/document/10055129" class="arXiv">paper</a>
               </div>
