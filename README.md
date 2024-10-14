@@ -97,7 +97,6 @@
               </div>
               <p>
                 Yuchao Wang, Yinsong Qu, Shiquan Zhao, Huixuan Fu
-                <b>He Wang<span>†</span></b>
               </p>
               <p class="decs">Ocean Engineering</p>
               <div class="button">
