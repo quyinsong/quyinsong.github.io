@@ -186,7 +186,7 @@
         <div id="opportunities" class="main-news">
           <div class="title">OPPORTUNITIES</div>
           <p>
-            
+            ****************
           </p>
           <ul>
             <li>
